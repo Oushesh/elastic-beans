@@ -25,3 +25,4 @@
 
       * 7. Next, we create an application to be deployed on elastic beanstalk. 
 
+      * 8. Then test on aws cloud: for other purposes
